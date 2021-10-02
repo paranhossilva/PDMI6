@@ -1,0 +1,15 @@
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.csproj.AssemblyReference.cache
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.AssemblyInfoInputs.cache
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.AssemblyInfo.cs
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.csproj.CoreCompileInputs.cache
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.dll
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\ref\TP01.dll
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\TP01.pdb
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.deps.json
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.dll
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\bin\Debug\netstandard2.0\ref\TP01.dll
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\bin\Debug\netstandard2.0\TP01.pdb
+D:\Bruno\Documents\Visual Studio 2019\TP01\TP01\TP01\obj\Debug\netstandard2.0\XamlC.stamp

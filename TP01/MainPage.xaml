@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01.MainPage">
+    <Frame HasShadow="False" Padding="20">
+        <StackLayout>
+            <Label Text="Trabalho Prático 01" FontSize="Title" HorizontalTextAlignment="Center"/>
+            <Entry x:Name="txtId" Placeholder="ID" />
+            <Entry x:Name="txtSenha" Placeholder="Senha" IsPassword="True"/>
+            
+            <StackLayout VerticalOptions="Center">
+                <Button x:Name="btnOk" Text="Enviar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnOk_Clicked"/>
+                <Button x:Name="btnLimpar" Text="Limpar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnLimpar_Clicked"/>
+                <Button x:Name="btnCreditos" Text="Créditos" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnCreditos_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </Frame>
+</ContentPage>
