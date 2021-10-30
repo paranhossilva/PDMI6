@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP02.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" CornerRadius="0">
+                <Label Text="Trabalho Prátio 02" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <StackLayout VerticalOptions="Center">
+                <Label Text="Style Resources" FontSize="Title" HorizontalTextAlignment="Center"/>
+
+                <Button x:Name="btnPadrao" Text="Estilo Padrão" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnPadrao_Clicked"/>
+                <Button x:Name="btnDinamico" Text="Estilo Dinâmico" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnDinamico_Clicked"/>
+                <Button x:Name="btnTriggers" Text="Estilo Event Triggers" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnTriggers_Clicked"/>
+                <Button x:Name="btnGlobal" Text="Estilo Global" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnGlobal_Clicked"/>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="Center">
+                <Label Text="Passar Parâmetro" FontSize="Title" HorizontalTextAlignment="Center"/>
+
+                <Button x:Name="btnHome" Text="Home" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnHome_Clicked"/>
+                <Button x:Name="btnCenter" Text="Messaging Center" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnCenter_Clicked"/>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="Center">
+                <Label Text="ListView" FontSize="Title" HorizontalTextAlignment="Center"/>
+
+                <Button x:Name="btnSimples" Text="Simples" BackgroundColor="Blue" TextColor="White" CornerRadius="5"  Clicked="btnSimples_Clicked"/>
+                <Button x:Name="btnComplexa" Text="Classe Complexa" BackgroundColor="Blue" TextColor="White" CornerRadius="5"  Clicked="btnComplexa_Clicked"/>
+                <Button x:Name="btnProduto" Text="Produto" BackgroundColor="Blue" TextColor="White" CornerRadius="5"  Clicked="btnProduto_Clicked"/>
+            </StackLayout>
+
+            <Label Text="Créditos" FontSize="Title" HorizontalTextAlignment="Center"/>
+            <Button x:Name="btnCreditos" Text="Créditos" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnCreditos_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

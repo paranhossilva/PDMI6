@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP02.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" CornerRadius="0">
+                <Label Text="Trabalho Prátio 02" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <Label Text="Home" FontSize="Title" HorizontalTextAlignment="Center"/>
+
+            <StackLayout VerticalOptions="Center">
+                <Entry x:Name="txtNome" Placeholder="Nome" Keyboard="Text"/>
+                <Entry x:Name="txtIdade" Placeholder="Idade" Keyboard="Numeric" />
+                <Entry x:Name="txtProfissao" Placeholder="Profissão" Keyboard="Text"/>
+                <Entry x:Name="txtPais" Placeholder="País" Keyboard="Text"/>
+
+                <Button x:Name="btnOk" Text="Enviar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnOk_Clicked"/>
+            </StackLayout>
+
+            <Button x:Name="btnVoltar" Text="Voltar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnVoltar_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

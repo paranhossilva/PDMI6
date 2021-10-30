@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP02.ListView">
+    <ContentPage.Content>
+        <StackLayout>
+        <Frame BackgroundColor="#2196F3" CornerRadius="0">
+            <Label Text="Trabalho Prátio 02" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+            <Label Text="Produto" FontSize="Title" HorizontalTextAlignment="Center"/>
+
+            <StackLayout VerticalOptions="Center">
+            <Entry x:Name="txtId" Placeholder="ID" Keyboard="Numeric"/>
+            <Entry x:Name="txtDescricao" Placeholder="Descrição" Keyboard="Text" />
+            <Entry x:Name="txtCategoria" Placeholder="Categoria" Keyboard="Text"/>
+            <Entry x:Name="txtQuantidade" Placeholder="Quantidade" Keyboard="Numeric"/>
+            <Entry x:Name="txtPreco" Placeholder="Preço" Keyboard="Numeric"/>
+
+            <Button x:Name="btnOk" Text="Enviar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnOk_Clicked"/>
+        </StackLayout>
+            <Button x:Name="btnVoltar" Text="Voltar" BackgroundColor="Blue" TextColor="White" CornerRadius="5" Clicked="btnVoltar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
