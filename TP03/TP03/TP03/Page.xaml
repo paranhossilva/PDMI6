@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP03.Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding nome}" HorizontalOptions="CenterAndExpand" FontSize="36" />
+
+            <Image Source="{Binding url}" Aspect="AspectFit" />
+
+            <Label Text="{Binding id}" FontSize="25"/>
+
+            <Label Text="{Binding tipo}" FontSize="25"/>
+
+            <Label Text="{Binding peso}" FontSize="25"/>
+
+            <Label Text="{Binding altura}" FontSize="25"/>
+
+            <Button x:Name="btnVoltar" Text="Voltar"  BackgroundColor="#5D74FF" TextColor="White" CornerRadius="5" Clicked="btnVoltar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
