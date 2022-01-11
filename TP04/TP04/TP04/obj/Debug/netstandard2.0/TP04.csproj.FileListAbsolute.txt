@@ -1,0 +1,16 @@
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csproj.AssemblyReference.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\NovoAlunoView.xaml.g.cs
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfoInputs.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfo.cs
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csproj.CoreCompileInputs.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.deps.json
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\bin\Debug\netstandard2.0\ref\TP04.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.pdb
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\ref\TP04.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\PDMI6\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.pdb
