@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPFinal.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Trabalho Prático Final" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="txtId" Placeholder="ID do Produto"></Entry>
+        <Entry x:Name="txtNome" Placeholder="Nome"></Entry>
+        <Entry x:Name="txtPeso" Placeholder="Peso" Keyboard="Numeric"></Entry>
+        <Entry x:Name="txtProdutor" Placeholder="Produtor"></Entry>
+        <Entry x:Name="txtEmail" Placeholder="E-mail do Produtor" Keyboard="Email"></Entry>
+        <Entry x:Name="txtNCM" Placeholder="NCM" Keyboard="Numeric"></Entry>
+        
+        <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+            <Button x:Name="btnAdd" WidthRequest="200" Text="Adicionar" Clicked="btnAdd_Clicked"/>
+            <Button x:Name="btnSelect" WidthRequest="200" Text="Procurar" Clicked="btnSelect_Clicked"/>
+        </StackLayout>
+        <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+            <Button x:Name="btnUpdate" WidthRequest="200" Text="Atualizar" Clicked="btnUpdate_Clicked"/>
+            <Button x:Name="btnDelete" WidthRequest="200" Text="Excluir" Clicked="btnDelete_Clicked"/>
+        </StackLayout>
+        
+        <ListView x:Name="lstProdutos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Nome}" Detail="{Binding Id}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>

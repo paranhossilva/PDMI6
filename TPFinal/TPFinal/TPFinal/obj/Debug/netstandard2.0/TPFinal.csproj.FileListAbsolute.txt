@@ -1,0 +1,15 @@
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\bin\Debug\netstandard2.0\TPFinal.deps.json
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\bin\Debug\netstandard2.0\TPFinal.dll
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\bin\Debug\netstandard2.0\ref\TPFinal.dll
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\bin\Debug\netstandard2.0\TPFinal.pdb
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.AssemblyReference.cache
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfoInputs.cache
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfo.cs
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.dll
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\ref\TPFinal.dll
+C:\Users\brunops\Desktop\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.pdb
